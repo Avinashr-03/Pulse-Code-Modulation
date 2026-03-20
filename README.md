@@ -46,7 +46,7 @@ plt.subplot(616); plt.plot(t,dm_demod[:-1],'g--'); plt.title("DM Demodulation");
 
 plt.tight_layout()
 plt.show()
-```asm
+```
 # Output Waveform
 ![WhatsApp Image 2026-02-16 at 3 47 47 PM](https://github.com/user-attachments/assets/77a44b87-0643-4ba0-beb1-7d15298b0277)
 
